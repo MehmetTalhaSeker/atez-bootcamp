@@ -7,7 +7,7 @@
 - `forEach():` Her bir element için istenilen işlem yapılır.
 - `from():` Objeden bir array yaratılır.
 - `includes():` Spesifik olarak verilen elementin array'de mevcudiyetini kontrol eder.
-- `indexOf():` Search the array for an element and returns its position
+- `indexOf():` Array'i arar spesifik bir element için arar ve indisini döner.
 - `join():` Array'in tüm elemanlarını string'e çevirir.
 - `map():` Her bir array elementi için verilen işlemi yapıp, yeni bir array döndürür.
 - `pop():` Array'in son elemanının siler.

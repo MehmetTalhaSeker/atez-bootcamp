@@ -41,6 +41,6 @@ Talha'nın doğumu gibi düşünebiliriz yukarıdaki işlemi. İnsan tipinde yen
 
 ## Avantajları
 - Abstraction(soyutlama) yaklaşımı sayesinde temiz kod yazmak hayli kolaylaşır. Bence yazılımdaki en önemli konsept soyutlamadır.
-- Encapsulation(gizleme) de bir nevi bir abstraction'dur. Bir class'ın kullanmamamız gereken kısımlarını saklamak, her zaman kafa karışıklığını azaltacak, kod güvenliği arttıracaktır.
+- Encapsulation(gizleme) de bir nevi bir abstraction'dur. Bir class'ın kullanmamamız gereken kısımlarını saklamak; her zaman kafa karışıklığını azaltacak, kod güvenliği arttıracaktır.
 - Inheritance(torun/çocuk ilişkisi gibi düşünülebilir) Üst sınıflardan alt sınıflara özellikler vs. aktarılabilir.  
 - Polymorphism(çok biçimlilik) Birbiriyle bağlantı olan sınıfların bazı kısımlarda farklılaşmasını sağlar.
