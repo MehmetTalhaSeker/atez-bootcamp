@@ -1,0 +1,11 @@
+{
+  "name": "atez-bootcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MehmetTalhaSeker/atez-bootcamp.git",
+  "author": "mehmettalhaseker <mtalhaseker22@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vitest": "^0.28.5"
+  }
+}
