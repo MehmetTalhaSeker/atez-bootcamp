@@ -1,0 +1,23 @@
+- `concat():` İki arrayı birleştirir ve bu birleştirilmiş array return edilir.
+- `every():` Array'in her elemanı, callback aracılığıyla verilen filtreye sokulur.
+- `fill():` Array'i belirlenen bir elemanla doldurur.
+- `filter():` İstenilen şekilde array'in elemanlarının filtrelenmesini sağlar.
+- `find():` Koşullara ilk elemanı döndürür.
+- `findIndex():` Koşullara uyan ilk elemanının indisini döndürür.
+- `forEach():` Her bir element için istenilen işlem yapılır.
+- `from():` Objeden bir array yaratılır.
+- `includes():` Spesifik olarak verilen elementin array'de mevcudiyetini kontrol eder.
+- `indexOf():` Search the array for an element and returns its position
+- `join():` Array'in tüm elemanlarını string'e çevirir.
+- `map():` Her bir array elementi için verilen işlemi yapıp, yeni bir array döndürür.
+- `pop():` Array'in son elemanının siler.
+- `push():` Array'in sonuna istenilen elemanı ekler.
+- `reduce():` Array'in tüm elemanlarını tek bir değere düşürmeye yarar.
+- `reverse():` Array'in dizilişini tersine çevirir.
+- `shift():` Array'in ilk elementini siler ve bu silinen elemanı geri döndürür.
+- `slice():` Array'in belli bir parçasını kesip döndürmeye yarar.
+- `some():` Array'in içinde filtrelemeye en az 1 tane uyacak bir eleman olup olmadığını kontrol eder. 
+- `sort():` Verilen koşula göre array'i sıralama işlemine tabi tutar.
+- `splice():` Array'den eleman eklemeye/çıkarmaya yarar.
+- `toString():` Array'i string'e çevirir.
+- `unshift():` Array'in başına eleman ekler.
