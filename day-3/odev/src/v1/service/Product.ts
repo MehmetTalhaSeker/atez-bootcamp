@@ -34,7 +34,7 @@ export class ProductService implements IProductService {
     dummyData.map((product) => {
       switch (product.category) {
         case "smartphones":
-          result.push(product as unknown as ISmartPhone);
+          result.push(product as ISmartPhone);
           break;
         case "laptop":
           result.push(product as ILaptop);
